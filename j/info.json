@@ -1,6 +1,5 @@
 {
  "army":
-[
  {
    "title": "Soldier",
    "description": "A Powerfull soldier",
@@ -9,5 +8,4 @@
    "off": 20,
    "price": 10
  }
-]
 }
