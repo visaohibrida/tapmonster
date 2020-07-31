@@ -1,0 +1,10 @@
+[
+ {
+   "title": "Soldier",
+   "description": "A Powerfull soldier",
+   "level": 1,
+   "damage": 1,
+   "off": 20,
+   "price": 10
+ }
+]
