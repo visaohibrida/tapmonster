@@ -1,12 +1,6 @@
-{
- "army":
  {
-   "title": "Soldier",
-   "description": "A Powerfull soldier",
-   "level": 1,
-   "damage": 1,
-   "isOff": true,
-   "off": 20,
-   "price": 10
- }
+	"title": "soldier",
+	"sub": [1, 2, 3],
+	"price": "two",
+	"sub_dir": {"sub_key": "Nested value"},
 }
