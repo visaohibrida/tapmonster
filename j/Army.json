@@ -1,0 +1,66 @@
+{
+ "army":
+ {
+   "title": "Soldier",
+   "description": "A Powerfull soldier",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Cannonner",
+   "description": "Boom",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Ninja",
+   "description": "A Stealth Ninja",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Scytheman",
+   "description": "This is the end",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Scytheman",
+   "description": "This is the end",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Archer",
+   "description": "On target",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+ {
+   "title": "Knight",
+   "description": "Fight!",
+   "level": 1,
+   "damage": 1,
+   "isOff": true,
+   "off": 20,
+   "price": 10
+ }
+}
