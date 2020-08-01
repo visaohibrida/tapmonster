@@ -1,3 +1,4 @@
+{
 "slot1":{
 	"title": "Soldier",
 	"description": "This is the end",
@@ -6,4 +7,5 @@
 	"isOff": true,
 	"off": 20,
 	"price": 10
-},
+}
+}
