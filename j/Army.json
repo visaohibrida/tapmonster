@@ -1,6 +1,9 @@
- {
-	"title": "soldier",
-	"sub": [1, 2, 3],
-	"price": "two",
-	"sub_dir": {"sub_key": "Nested value"},
-}
+"slot1":{
+	"title": "Soldier",
+	"description": "This is the end",
+	"level": 1,
+	"damage": 1,
+	"isOff": true,
+	"off": 20,
+	"price": 10
+},
