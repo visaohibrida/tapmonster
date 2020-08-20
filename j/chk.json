@@ -1,6 +1,7 @@
 {
-	"version":{
-		"v": 0,
-	},
- 
+"version":{
+	"version": 1,
+	"alpha": 0,
+	"beta": 1,	
+},
 }
